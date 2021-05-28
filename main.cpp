@@ -1,3 +1,7 @@
+/*
+	Description: Ohm's Law with Circuit Schematic / Devre şeması ve Ohm Kanunu
+	Copyright: Muhammet Fatih KESKIN - 2018
+*/
 #include <iostream>
 #include "Devre.h"
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
